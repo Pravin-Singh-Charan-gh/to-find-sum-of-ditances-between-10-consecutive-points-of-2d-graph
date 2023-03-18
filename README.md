@@ -1,0 +1,1 @@
+# to-find-sum-of-ditances-between-10-consecutive-points-of-2d-graph
